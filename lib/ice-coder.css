@@ -60,7 +60,7 @@ h2 {font-size: 18px; font-weight: normal; color: #fff}
 .files .fileNav {display: block; height: 36px}
 .files .fileNav ul {list-style-type: none; line-height: 24px; padding-left: 15px}
 .files .fileNav li {display: inline-block; padding: 18px 15px 0 0}
-.files .fileNav a {color: #666; text-decoration: none}
+.files .fileNav a {color: #bbb; text-decoration: none}
 .files .fileNav a:hover {color: #fff; cursor: pointer}
 .files .options {
 	transition: opacity 0.15s ease-in-out;
